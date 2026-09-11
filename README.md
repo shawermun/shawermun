@@ -1,21 +1,22 @@
+<!-- ВЕНОМ ХЕДЕР -->
 <div align="center">
-
-  <!-- МИНИМАЛИСТИЧНЫЙ ТЕРМИНАЛЬНЫЙ СТАТУС -->
-  <a href="https://github.com/shawermun">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;TypeScript+%26+Modern+Web;Mobile+Apps+(Expo+%2F+React+Native);Clean+Architecture+%26+Scalable+Code" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=shawermun&fontSize=70&fontColor=ffffff&color=0:161b22,100:0d1117&stroke=58a6ff&strokeWidth=1&desc=Fullstack%20Engineer%20%E2%80%A2%20TypeScript%20%26%20Expo&descAlignY=62&descSize=19&animation=fadeIn" width="100%" />
 
   <p align="center">
-    Разрабатываю веб-сервисы и мобильные приложения. Специализируюсь на связке <b>TypeScript + React / Expo</b>,<br/>
-    создаю удобные интерфейсы, надежные бэкенды и ценю лаконичную кодовую базу.
+    Разрабатываю производительные веб-сервисы и мобильные приложения.<br/>
+    Специализируюсь на связке <b>TypeScript + React / Expo</b>. Ценю чистую архитектуру, высокую скорость и UX.
   </p>
 
-  <!-- БЕЙДЖИ СВЯЗИ -->
+  <!-- КОНТАКТЫ -->
   <p align="center">
-    <a href="https://t.me/твой_юзернейм"><img src="https://img.shields.io/badge/Telegram-161b22?style=flat-square&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>
-    <a href="mailto:твоя_почта@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+    <a href="https://t.me/твой_юзернейм" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
+    </a>
+    &nbsp;
+    <a href="mailto:твоя_почта@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+    </a>
   </p>
-
 </div>
 
 <br/>
@@ -26,7 +27,7 @@
 const shawermun = {
   core: ["TypeScript", "JavaScript"],
   mobile: ["Expo", "React Native"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Zustand / Redux"],
-  backend: ["Node.js", "Express", "PostgreSQL", "Prisma", "Redis", "REST APIs"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "Zustand"],
+  backend: ["Node.js", "Express", "PostgreSQL", "Prisma", "Redis"],
   tools: ["Docker", "Git", "Vite", "Figma"]
 };
