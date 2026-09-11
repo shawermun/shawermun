@@ -23,7 +23,7 @@
 
 <br/>
 
-### 🛠️ Стек технологий
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> Стек технологий
 
 <pre><code>const shawermun = {
   core: ["TypeScript", "JavaScript"],
@@ -34,20 +34,20 @@
 };</code></pre>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,expo,tailwind,nodejs,express,postgres,prisma,redis,docker,git,vite,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,redis,docker,git,vite,figma&theme=dark" />
 </p>
 
 <br/>
 
-### 🐍 Активность на GitHub
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Tree" width="28" height="28" /> Git Bonsai
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shawermun/shawermun/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/egorthinks/git-bonsai/main/assets/bonsai.gif" width="280" alt="Git Bonsai" />
 </div>
 
 <br/>
 
-### 📊 Статистика
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" /> Статистика
 
 <div align="center">
   <table border="0">
