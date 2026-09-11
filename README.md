@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- VENOM HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=shawermun&fontSize=70&fontColor=ffffff&color=0:161b22,100:0d1117&stroke=58a6ff&strokeWidth=1" width="100%" />
+  <!-- BLUR HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=shawermun&fontSize=70&fontColor=ffffff&color=0:161b22,100:0d1117&stroke=58a6ff&strokeWidth=1" width="100%" />
 
   <p align="center">
     Разрабатываю веб-сервисы и мобильные приложения.<br/>
@@ -10,11 +10,11 @@
 
   <!-- CONTACTS -->
   <p align="center">
-    <a href="https://t.me/твой_юзернейм" target="_blank">
+    <a href="https://t.me/shaweerma" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
     </a>
     &nbsp;
-    <a href="mailto:твоя_почта@gmail.com" target="_blank">
+    <a href="mailto:easyshawerma@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
     </a>
   </p>
@@ -25,24 +25,16 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> Стек технологий
 
-<pre><code>const shawermun = {
-  core: ["TypeScript", "JavaScript"],
-  mobile: ["Expo", "React Native"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Zustand"],
-  backend: ["Node.js", "Express", "PostgreSQL", "Prisma", "Redis"],
-  tools: ["Docker", "Git", "Vite", "Figma"]
-};</code></pre>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,redis,docker,git,vite,figma&theme=dark" />
 </p>
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Tree" width="28" height="28" /> Git Bonsai
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="City" width="28" height="28" /> 3D City Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/egorthinks/git-bonsai/main/assets/bonsai.gif" width="280" alt="Git Bonsai" />
+  <img src="https://raw.githubusercontent.com/shawermun/shawermun/main/profile-3d-contrib/profile-night-view.svg" alt="3D City Contributions" width="100%" />
 </div>
 
 <br/>
