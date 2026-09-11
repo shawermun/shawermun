@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=shawermun&fontSize=70&fontColor=ffffff&color=0:38bdf8,100:6366f1&stroke=38bdf8&strokeWidth=1" width="100%" />
 
   <p align="center">
-    Разрабатываю веб-сервисы и мобильные приложения.<br/>
-    Специализируюсь на <b>TypeScript + React / Expo</b>. Чистая архитектура, скорость и UX.
+    Fullstack-разработчик. Создаю современные веб-сервисы, мобильные приложения<br/>
+    и внедряю умную автоматизацию с ИИ-агентами в реальные бизнес-процессы.
   </p>
 
   <!-- CONTACTS -->
@@ -21,10 +21,13 @@
 
 </div>
 
-<br/>
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> Стек технологий
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,redis,docker,git,vite,figma&theme=dark" />
+</p>
+<br/>
+
+<p align="center">
+  <i>Открыт к сотрудничеству, разработке под ключ и интересным проектам. Напишите в <a href="https://t.me/shaweerma">Telegram</a> - обсудим детали.</i>
 </p>
