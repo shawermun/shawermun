@@ -28,28 +28,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,redis,docker,git,vite,figma&theme=dark" />
 </p>
-
-<br/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="City" width="28" height="28" /> 3D City Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shawermun/shawermun/main/profile-3d-contrib/profile-night-view.svg" alt="3D City Contributions" width="100%" />
-</div>
-
-<br/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" /> Статистика
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawermun&theme=github_dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawermun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
