@@ -1,5 +1,4 @@
 <div align="center">
-
   <!-- GLOW BLUR HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=shawermun&fontSize=70&fontColor=ffffff&color=0:38bdf8,100:6366f1&stroke=38bdf8&strokeWidth=1" width="100%" />
 
