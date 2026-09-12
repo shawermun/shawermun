@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=shawermun&fontSize=70&fontColor=ffffff&color=0:38bdf8,100:6366f1&stroke=38bdf8&strokeWidth=1" width="100%" />
 
   <p align="center">
-    Fullstack-разработчик. Создаю современные веб-сервисы, мобильные приложения<br/>
+    Fullstack-разработчик. Создаю веб-сервисы, мобильные приложения<br/>
     и внедряю умную автоматизацию с ИИ-агентами в реальные бизнес-процессы.
   </p>
   
